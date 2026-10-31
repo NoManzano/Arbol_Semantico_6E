@@ -214,7 +214,6 @@ Diccionario crearDiccionario() {
     Diccionario diccionario;
     agregarPalabra(diccionario, "tambien", " y ");
     agregarPalabra(diccionario, "ademas", " y ");
-    agregarPalabra(diccionario, "además", " y ");
     agregarPalabra(diccionario, "pero", " y ");
     agregarPalabra(diccionario, "o bien", " o ");
     agregarPalabra(diccionario, "siempre que", "si ");
